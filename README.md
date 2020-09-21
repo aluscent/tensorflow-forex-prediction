@@ -1,2 +1,2 @@
-# tensorflow-forex-prediction
-I'm trying to find a model to better understand and simulate Forex market movements.
+# Tensorflow Forex Prediction
+This project is my effort to find a model that better understands and simulates Forex market movements.
